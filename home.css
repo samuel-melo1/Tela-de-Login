@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: blueviolet;
+}
+.voltar a{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #4B0082; 
+    color: #fff;
+}
+.voltar{
+    padding: 40px;
+}
